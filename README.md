@@ -1,2 +1,3 @@
-# Tekkit-2
-The sequel to Tekkit (2012)
+Tekkit 2
+===============
+#### The repository is for technical support, bug reports, and general questions.
